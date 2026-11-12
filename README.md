@@ -84,7 +84,7 @@ dataset/                      # your extracted dataset (not committed)
 
 The dataset is distributed separately because it is too large for Git.
 
-> **Download link:** **[ADD YOUR GOOGLE DRIVE LINK HERE]**
+> **Download link:** https://drive.google.com/file/d/1NFMPXsI8RGnXomLqamtXp0iCXGoQZZks/view?usp=sharing
 
 ### Expected layout
 
