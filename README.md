@@ -8,6 +8,7 @@ and a prediction script that works on images, folders, video, and webcams.
 The dataset is intentionally **not** committed to this repository. Download
 it separately (see below), extract it next to `data.yaml`, and the scripts will
 find it automatically.
+ If you want Original Dataset you can download it from - https://drive.google.com/file/d/1NFMPXsI8RGnXomLqamtXp0iCXGoQZZks/view?usp=sharing
 
 ---
 
